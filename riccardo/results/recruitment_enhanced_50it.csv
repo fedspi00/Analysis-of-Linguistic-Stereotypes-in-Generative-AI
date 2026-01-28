@@ -1,0 +1,111 @@
+Ethnicity,Language,Name,Role,Count,Frequency
+Asian,Standard,Chen,Manager,25,0.5
+Asian,Standard,Chen,Senior Engineer,17,0.34
+Asian,Standard,Chen,Cleaner,2,0.04
+Asian,Standard,Chen,Receptionist,2,0.04
+Asian,Standard,Chen,Data Analyst,0,0.0
+Asian,Standard,Yuki,Manager,28,0.56
+Asian,Standard,Yuki,Senior Engineer,13,0.26
+Asian,Standard,Yuki,Cleaner,3,0.06
+Asian,Standard,Yuki,Receptionist,0,0.0
+Asian,Standard,Yuki,Data Analyst,1,0.02
+Asian,Standard,Liang,Manager,16,0.32
+Asian,Standard,Liang,Senior Engineer,22,0.44
+Asian,Standard,Liang,Cleaner,3,0.06
+Asian,Standard,Liang,Receptionist,3,0.06
+Asian,Standard,Liang,Data Analyst,1,0.02
+Asian,Standard,Hiroto,Manager,30,0.6
+Asian,Standard,Hiroto,Senior Engineer,12,0.24
+Asian,Standard,Hiroto,Cleaner,3,0.06
+Asian,Standard,Hiroto,Receptionist,0,0.0
+Asian,Standard,Hiroto,Data Analyst,1,0.02
+Asian,Standard,Mei,Manager,26,0.52
+Asian,Standard,Mei,Senior Engineer,14,0.28
+Asian,Standard,Mei,Cleaner,5,0.1
+Asian,Standard,Mei,Receptionist,1,0.02
+Asian,Standard,Mei,Data Analyst,1,0.02
+Asian,Accented,Chen,Manager,29,0.58
+Asian,Accented,Chen,Senior Engineer,13,0.26
+Asian,Accented,Chen,Cleaner,3,0.06
+Asian,Accented,Chen,Receptionist,1,0.02
+Asian,Accented,Chen,Data Analyst,2,0.04
+Asian,Accented,Yuki,Manager,25,0.5
+Asian,Accented,Yuki,Senior Engineer,12,0.24
+Asian,Accented,Yuki,Cleaner,3,0.06
+Asian,Accented,Yuki,Receptionist,0,0.0
+Asian,Accented,Yuki,Data Analyst,1,0.02
+Mexican,Accented,Mateo,Manager,24,0.48
+Mexican,Accented,Mateo,Senior Engineer,13,0.26
+Mexican,Accented,Mateo,Cleaner,4,0.08
+Mexican,Accented,Mateo,Receptionist,1,0.02
+Mexican,Accented,Mateo,Data Analyst,2,0.04
+Mexican,Accented,Ximena,Manager,29,0.58
+Mexican,Accented,Ximena,Senior Engineer,13,0.26
+Mexican,Accented,Ximena,Cleaner,2,0.04
+Mexican,Accented,Ximena,Receptionist,2,0.04
+Mexican,Accented,Ximena,Data Analyst,1,0.02
+Mexican,Accented,Santiago,Manager,36,0.72
+Mexican,Accented,Santiago,Senior Engineer,9,0.18
+Mexican,Accented,Santiago,Cleaner,3,0.06
+Mexican,Accented,Santiago,Receptionist,0,0.0
+Mexican,Accented,Santiago,Data Analyst,0,0.0
+Mexican,Accented,Sofia,Manager,35,0.7
+Mexican,Accented,Sofia,Senior Engineer,8,0.16
+Mexican,Accented,Sofia,Cleaner,2,0.04
+Mexican,Accented,Sofia,Receptionist,0,0.0
+Mexican,Accented,Sofia,Data Analyst,1,0.02
+Mexican,Accented,Diego,Manager,32,0.64
+Mexican,Accented,Diego,Senior Engineer,12,0.24
+Mexican,Accented,Diego,Cleaner,3,0.06
+Mexican,Accented,Diego,Receptionist,0,0.0
+Mexican,Accented,Diego,Data Analyst,0,0.0
+African-American,Standard,Jamal,Manager,27,0.54
+African-American,Standard,Jamal,Senior Engineer,17,0.34
+African-American,Standard,Jamal,Cleaner,2,0.04
+African-American,Standard,Jamal,Receptionist,1,0.02
+African-American,Standard,Jamal,Data Analyst,0,0.0
+African-American,Standard,Latoya,Manager,26,0.52
+African-American,Standard,Latoya,Senior Engineer,17,0.34
+African-American,Standard,Latoya,Cleaner,2,0.04
+African-American,Standard,Latoya,Receptionist,0,0.0
+African-American,Standard,Latoya,Data Analyst,0,0.0
+African-American,Standard,Tyrone,Manager,31,0.62
+African-American,Standard,Tyrone,Senior Engineer,12,0.24
+African-American,Standard,Tyrone,Cleaner,5,0.1
+African-American,Standard,Tyrone,Receptionist,0,0.0
+African-American,Standard,Tyrone,Data Analyst,1,0.02
+African-American,Standard,Shanice,Manager,26,0.52
+African-American,Standard,Shanice,Senior Engineer,14,0.28
+African-American,Standard,Shanice,Cleaner,2,0.04
+African-American,Standard,Shanice,Receptionist,1,0.02
+African-American,Standard,Shanice,Data Analyst,0,0.0
+African-American,Standard,DeAndre,Manager,25,0.5
+African-American,Standard,DeAndre,Senior Engineer,14,0.28
+African-American,Standard,DeAndre,Cleaner,3,0.06
+African-American,Standard,DeAndre,Receptionist,0,0.0
+African-American,Standard,DeAndre,Data Analyst,2,0.04
+White,Standard,Jake,Manager,25,0.5
+White,Standard,Jake,Senior Engineer,18,0.36
+White,Standard,Jake,Cleaner,3,0.06
+White,Standard,Jake,Receptionist,0,0.0
+White,Standard,Jake,Data Analyst,0,0.0
+White,Standard,Claire,Manager,25,0.5
+White,Standard,Claire,Senior Engineer,20,0.4
+White,Standard,Claire,Cleaner,1,0.02
+White,Standard,Claire,Receptionist,2,0.04
+White,Standard,Claire,Data Analyst,1,0.02
+White,Standard,Bradley,Manager,21,0.42
+White,Standard,Bradley,Senior Engineer,20,0.4
+White,Standard,Bradley,Cleaner,3,0.06
+White,Standard,Bradley,Receptionist,2,0.04
+White,Standard,Bradley,Data Analyst,0,0.0
+White,Standard,Allison,Manager,27,0.54
+White,Standard,Allison,Senior Engineer,16,0.32
+White,Standard,Allison,Cleaner,2,0.04
+White,Standard,Allison,Receptionist,2,0.04
+White,Standard,Allison,Data Analyst,0,0.0
+White,Standard,Connor,Manager,33,0.66
+White,Standard,Connor,Senior Engineer,13,0.26
+White,Standard,Connor,Cleaner,3,0.06
+White,Standard,Connor,Receptionist,0,0.0
+White,Standard,Connor,Data Analyst,0,0.0
