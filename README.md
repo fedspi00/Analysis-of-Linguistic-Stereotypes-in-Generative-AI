@@ -65,23 +65,6 @@ The AAE versions incorporate characteristic features including:
 - **Phonological variation**: "tryna" (trying to), "workin'" (working)
 - **Lexical choices**: "folks," "keep it real," "throw hands"
 
-## 📁 Project Structure
-
-```
-├── llmProjectHaiku.ipynb      # Main notebook (Google Colab)
-├── README.md                   # This file
-├── requirements.txt            # Python dependencies
-└── outputs/                    # Generated results
-    ├── results_base.csv
-    ├── results_CoT.csv
-    ├── results_role_prompting.csv
-    ├── results_multi_agent.csv
-    ├── bias_scores_summary.csv
-    └── visualizations/
-        ├── bias_scores_*.png
-        └── word_counts_*.png
-```
-
 ## 🛠️ Installation
 
 ### Prerequisites
