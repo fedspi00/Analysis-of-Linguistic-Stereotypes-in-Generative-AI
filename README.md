@@ -1,1 +1,0 @@
-# Analysis-of-Linguistic-Stereotypes-in-Generative-AI
