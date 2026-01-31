@@ -183,6 +183,7 @@ Reason: <one sentence explanation>
 ```
 
 ## Results and Outputs
+To see the results per model and all the plotted graphs, it is recommended to download all the notebooks since they are not displayed on GitHub due to compatibility issues.
 
 ### Generated Files
 
