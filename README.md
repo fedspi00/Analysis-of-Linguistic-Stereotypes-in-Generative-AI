@@ -69,7 +69,7 @@ The AAE versions incorporate characteristic features including:
 ### Prerequisites
 
 - Python 3.10 or higher
-- Google Colab account (recommended) or local GPU setup
+- Google Colab account or local GPU setup
 - HuggingFace account and API token
 - Anthropic API key (for Claude models)
 
@@ -77,7 +77,7 @@ The AAE versions incorporate characteristic features including:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/linguistic-bias-analysis.git
+   git clone https://github.com/fedspi00/Analysis-of-Linguistic-Stereotypes-in-Generative-AI.git
    cd linguistic-bias-analysis
    ```
 
@@ -241,13 +241,15 @@ The bias evaluator assigns scores on a 1-10 scale:
 ### Primary Reference
 - Hofmann, V., Kalluri, P. R., Jurafsky, D., & King, S. (2024). Dialect prejudice predicts AI decisions about people's character, employability, and criminality. *Nature*. https://doi.org/10.1038/s41586-024-07856-5
 
-### Additional References
-- Bolukbasi, T., et al. (2016). Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.
-- Caliskan, A., et al. (2017). Semantics derived automatically from language corpora contain human-like biases.
-- Blodgett, S. L., et al. (2020). Language (Technology) is Power: A Critical Survey of "Bias" in NLP.
-- Wei, J., et al. (2022). Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.
-- Bai, Y., et al. (2022). Constitutional AI: Harmlessness from AI Feedback.
+### Extensions
+The folder "extensions" inside final notebooks contains a variation of the original code but with the addition of a third English variation (Southern American English). This execution is run solely using Claude Haiku due to Colab Constraints.
 
----
+## Contributors
 
-**Note**: This tool is designed for research and educational purposes to understand and mitigate bias in AI systems. The findings should be interpreted in the context of ongoing research in AI fairness and ethics.
+This project was developed as part of a course at Politecnico di Torino by the following students:
+
+- **Riccardo Bellanca - s346229**
+- **Gabriele Mancari Pasi - s323387** 
+- **Luca Prato - s338468**
+- **Federico Spinoso - s324617**
+- **Silvia Tagliente - s336397** 
